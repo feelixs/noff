@@ -1,1 +1,2 @@
 - Created NOFF (NPC) Version of the NOFFPerkIntenseFlamesConfDownFFAimedArea Magic Effect
+- in PerkIntenseFlamesConfDownFFAimedArea, chnged quest var from 'NOFFenabled' to 'FIREenabled'
