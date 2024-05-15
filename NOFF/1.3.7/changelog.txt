@@ -1,0 +1,1 @@
+- Created NOFF (NPC) Version of the NOFFPerkIntenseFlamesConfDownFFAimedArea Magic Effect
