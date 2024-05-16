@@ -1,2 +1,4 @@
 - Created NOFF (NPC) Version of the PerkIntenseFlamesConfDownFFAimedArea Magic Effect
 - in PerkIntenseFlamesConfDownFFAimedArea, PerkIntenseFlamesConfDownFFAimed, chnged quest var from 'NOFFenabled' to 'FIREenabled'
+- for NOFF firestorm, it burns hysteria is now "noff"
+- also for noff fireball rout effect
