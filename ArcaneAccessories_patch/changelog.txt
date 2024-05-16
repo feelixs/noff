@@ -1,0 +1,8 @@
+Supports:
+ 
+- Elemental Blast
+- Elemental Bolt
+- Elemental Burst
+- Elemental Flare
+
+
