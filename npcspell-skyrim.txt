@@ -1,40 +1,6 @@
 
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell:
-NPC with spell: Murbul 
-NPC with spell: Irileth 
-NPC with spell:
-NPC with spell:
-NPC with spell: Aicantar 
-NPC with spell: Muiri 
-NPC with spell: Ulfric 
-NPC with spell: Eola 
-NPC with spell:
-NPC with spell:
-NPC with spell: Malacath 
 NPC with spell: Atub 
-NPC with spell: Bolar 
-NPC with spell:
-NPC with spell:
-NPC with spell: Karliah 
-NPC with spell:
+NPC with spell: Bolar
 NPC with spell: FestusKrex 
 NPC with spell: UraggroShub 
 NPC with spell: Onmund 
@@ -43,27 +9,27 @@ NPC with spell: BrelynaMaryon
 NPC with spell: Faralda 
 NPC with spell: DrevisNeloren 
 NPC with spell: PhinisGestor 
-NPC with spell: ColetteMarence 
-NPC with spell: Nirya 
-NPC with spell: Enthir 
-NPC with spell: ArnielGane 
-NPC with spell: Tolfdir 
-NPC with spell: SavosAren 
-NPC with spell: MirabelleErvine 
-NPC with spell: SergiusTurrianus 
+NPC with spell:
+NPC with spell:
+NPC with spell:
+NPC with spell:
+NPC with spell:
+NPC with spell:
+NPC with spell:
+NPC with spell:
 NPC with spell: Hamal 
 NPC with spell: Nelacar 
 NPC with spell: Ancano 
-NPC with spell: dunAnsilvundLuahAlSkaven 
-NPC with spell: EncDragonPriest 
+NPC with spell:
+NPC with spell:
 NPC with spell: EncDwarvenCenturion03 
 NPC with spell: EncDwarvenSpider02 
 NPC with spell: EncAtronachFlame 
-NPC with spell: EncAtronachStorm 
+NPC with spell:
 NPC with spell: EncFrostbiteSpiderSnow 
 NPC with spell: EncFrostbiteSpiderSnowGiant 
-NPC with spell: EncHagraven 
-NPC with spell: EncSpriggan 
+NPC with spell:
+NPC with spell:  
 NPC with spell: EncWispMother 
 NPC with spell: EncWolfIce 
 NPC with spell: SilusVesuius 
