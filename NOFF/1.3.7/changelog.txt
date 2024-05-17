@@ -2,4 +2,4 @@
 - in PerkIntenseFlamesConfDownFFAimedArea, PerkIntenseFlamesConfDownFFAimed, chnged quest var from 'NOFFenabled' to 'FIREenabled'
 - for NOFF firestorm, it burns hysteria is now "noff"
 - also for noff fireball rout effect
-- fixed more npcs
+- restore magic use to many npcs
